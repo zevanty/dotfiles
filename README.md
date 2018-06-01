@@ -1,3 +1,8 @@
+# zevanty's custom installation information
+1. Copy all the .bash* files
+2. Copy .vimrc
+3. Import `init/Solarized Dark xterm-256color.terminal` into the terminal app
+
 # Mathias’s dotfiles
 
 ![Screenshot of my shell prompt](https://i.imgur.com/EkEtphC.png)
